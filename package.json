@@ -1,0 +1,20 @@
+{
+  "name": "aws-lambda-svg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "svg-thumbnail.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel svg-thumbnail.js -o svg-thumbnail-node-6.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.211.0",
+    "puppeteer": "^1.2.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
