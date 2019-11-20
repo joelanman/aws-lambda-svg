@@ -17,6 +17,10 @@ const fs = require('fs');
 const path = require('path');
 const puppeteer = require('puppeteer');
 
+// copy input html to tmp - maybe lambda can read it there?
+
+fs.writeFileSync('/tmp/input.html', fs.readFileSync(__dirname + '/input.html'))
+
 if (environment == 'development') {
   const minimist = require('minimist');
   const argv = minimist(process.argv.slice(2));
@@ -95,12 +99,28 @@ function convert(inputPath, outputDir, callback) {
 
   _asyncToGenerator(function* () {
 
+    const executablePath = (isLambda) ? __dirname + '/headless-chromium' : '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome';
+    console.log('executablePath: ' + executablePath);
     const browser = yield puppeteer.launch({
-      executablePath: isLambda ? __dirname + '/headless-chromium' : '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
+      args: ['--no-sandbox',
+             '--disable-setuid-sandbox',
+             '--single-process',
+             '--homedir=/tmp',
+             '--data-path=/tmp/data-path',
+             '--disk-cache-dir=/tmp/cache-dir'],
+      executablePath: executablePath
     });
-    const inputHTML = 'file://' + __dirname + '/input.html';
+    console.log('done launch')
     const page = yield browser.newPage();
+    console.log('done newPage')
+    const inputHTML = 'file://' + __dirname + '/input.html';
+    console.log('inputHTML: ' + inputHTML)
     yield page.goto(inputHTML);
+    console.log('done goto')
+    const location = yield page.evaluate(function(){return document.location});
+    console.log('location: ' + JSON.stringify(location));
+    const html = yield page.evaluate(function(){return document.documentElement.outerHTML});
+    console.log('html: ' + html)
     const dimensions = yield page.$eval('img', function (el) {
       const dimensions = el.getBoundingClientRect();
       return {
@@ -108,6 +128,7 @@ function convert(inputPath, outputDir, callback) {
         height: dimensions.height
       };
     });
+    console.log('done getDimensions')
     if (dimensions.width > dimensions.height) {
       yield page.$eval('img', function (el) {
         return el.setAttribute('width', 1024);
@@ -117,8 +138,9 @@ function convert(inputPath, outputDir, callback) {
         return el.setAttribute('height', 1024);
       });
     }
+    console.log('done setDimensions')
     const img = yield page.$('img');
-    yield img.screenshot({ path: outputDir + 'output.png' });
+    yield img.screenshot({ path: outputDir + 'output.png', omitBackground: true });
     yield browser.close();
     console.log('convert done');
     callback(false, 'png');

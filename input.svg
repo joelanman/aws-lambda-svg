@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="595px" height="842px" viewBox="0 0 595 842" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>floor plan - 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="338.75 461.230469 380 461.230469 380 360 338.75 360 338.75 339.835938 259.765625 339.835938 259.765625 360 220 360 220 461.230469 259.765625 461.230469 259.765625 480.210938 338.75 480.210938"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="floor-plan---6">
+            <rect id="Rectangle" stroke="#000000" stroke-width="4" fill="#FFFFFF" transform="translate(300.000000, 430.033203) rotate(-270.000000) translate(-300.000000, -430.033203) " x="-50.0332031" y="230.033203" width="700.066406" height="400"></rect>
+            <text id="23" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="384.988281" y="57">23</tspan>
+            </text>
+            <text id="24" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="340.582031" y="57">24</tspan>
+            </text>
+            <text id="25" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="296.175781" y="57">25</tspan>
+            </text>
+            <text id="26" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="251.769531" y="57">26</tspan>
+            </text>
+            <text id="27" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="207.363281" y="57">27</tspan>
+            </text>
+            <text id="28" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="162.957031" y="57">28</tspan>
+            </text>
+            <text id="29" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="118.550781" y="57">29</tspan>
+            </text>
+            <text id="22" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="429.394531" y="57">22</tspan>
+            </text>
+            <text id="21" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="473.800781" y="57">21</tspan>
+            </text>
+            <g id="Combined-Shape">
+                <use fill="#DADADA" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <path stroke="#BABABA" stroke-width="6" d="M335.75,477.210938 L262.765625,477.210938 L262.765625,461.230469 L262.765625,458.230469 L259.765625,458.230469 L223,458.230469 L223,363 L259.765625,363 L262.765625,363 L262.765625,360 L262.765625,342.835938 L335.75,342.835938 L335.75,360 L335.75,363 L338.75,363 L377,363 L377,458.230469 L338.75,458.230469 L335.75,458.230469 L335.75,461.230469 L335.75,477.210938 Z"></path>
+                <use stroke="#000000" stroke-width="4" xlink:href="#path-1"></use>
+            </g>
+            <text id="30" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="69.5507812" y="103.855263">30</tspan>
+            </text>
+            <text id="31" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="69.5507812" y="138.454986">31</tspan>
+            </text>
+            <text id="32" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="69.5507812" y="173.054709">32</tspan>
+            </text>
+            <text id="33" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="70.5507812" y="207.654432">33</tspan>
+            </text>
+            <text id="34" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="70.5507812" y="242.254155">34</tspan>
+            </text>
+            <text id="35" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="70.5507812" y="276.853878">35</tspan>
+            </text>
+            <text id="36" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="70.5507812" y="311.453601">36</tspan>
+            </text>
+            <text id="37" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="70.5507812" y="346.053324">37</tspan>
+            </text>
+            <text id="38" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="70.5507812" y="380.653047">38</tspan>
+            </text>
+            <text id="39" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="70.5507812" y="415.25277">39</tspan>
+            </text>
+            <text id="40" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="70.5507812" y="449.852493">40</tspan>
+            </text>
+            <text id="41" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="70.5507812" y="484.452216">41</tspan>
+            </text>
+            <text id="42" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="70.5507812" y="519.051939">42</tspan>
+            </text>
+            <text id="43" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="70.5507812" y="553.651662">43</tspan>
+            </text>
+            <text id="44" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="70.5234375" y="588.251385">44</tspan>
+            </text>
+            <text id="45" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="70.5234375" y="622.851108">45</tspan>
+            </text>
+            <text id="46" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="70.5234375" y="657.450831">46</tspan>
+            </text>
+            <text id="47" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="70.5234375" y="692.050554">47</tspan>
+            </text>
+            <text id="48" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="70.5234375" y="726.650277">48</tspan>
+            </text>
+            <text id="49" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="69.5234375" y="761.25">49</tspan>
+            </text>
+            <rect id="Rectangle-3" stroke="#000000" stroke-width="2" fill="#FFFFFF" x="360" y="361" width="20" height="99"></rect>
+            <polygon id="Rectangle-2" stroke="#000000" stroke-width="2" fill="#FFFFFF" points="340 520 340 640 260 640 260 520"></polygon>
+            <path d="M280,680 L221,680 L221,779 L360,779 L360,740 L340,740 L340,680 L301,680 L301,721 L280,721 L280,680 Z" id="Combined-Shape" stroke="#000000" stroke-width="2" fill="#FFFFFF"></path>
+            <polygon id="Rectangle-2" stroke="#000000" stroke-width="2" fill="#FFFFFF" points="220 580 220 640 180 640 180 580"></polygon>
+            <path d="M182.637192,580 C187.808128,580 192,584.191872 192,589.362808 L182.637192,589.362808 L182.637192,580 Z" id="Combined-Shape" stroke="#000000" fill="#FFFFFF" transform="translate(187.318596, 584.681404) scale(-1, 1) rotate(-181.000000) translate(-187.318596, -584.681404) "></path>
+            <path d="M284.637192,721 C289.808128,721 294,725.191872 294,730.362808 L284.637192,730.362808 L284.637192,721 Z" id="Combined-Shape" stroke="#000000" fill="#FFFFFF" transform="translate(289.318596, 725.681404) scale(-1, 1) rotate(-181.000000) translate(-289.318596, -725.681404) "></path>
+            <path d="M307.637192,680 C312.808128,680 317,684.191872 317,689.362808 L307.637192,689.362808 L307.637192,680 Z" id="Combined-Shape" stroke="#000000" fill="#FFFFFF" transform="translate(312.318596, 684.681404) scale(-1, 1) rotate(-181.000000) translate(-312.318596, -684.681404) "></path>
+            <path d="M330.637192,726 C335.808128,726 340,730.191872 340,735.362808 L330.637192,735.362808 L330.637192,726 Z" id="Combined-Shape" stroke="#000000" fill="#FFFFFF" transform="translate(335.318596, 730.681404) scale(-1, 1) rotate(-270.000000) translate(-335.318596, -730.681404) "></path>
+            <polygon id="Rectangle-2" stroke="#000000" stroke-width="2" fill="#FFFFFF" points="260 520 260 640 220 640 220 520"></polygon>
+            <polygon id="Rectangle-2" stroke="#000000" stroke-width="2" fill="#FFFFFF" points="420 500 420 580 360 580 360 500"></polygon>
+            <path d="M245.637192,520 C250.808128,520 255,524.191872 255,529.362808 L245.637192,529.362808 L245.637192,520 Z" id="Combined-Shape" stroke="#000000" fill="#FFFFFF" transform="translate(250.318596, 524.681404) scale(-1, 1) rotate(-181.000000) translate(-250.318596, -524.681404) "></path>
+            <polygon id="Rectangle-2" stroke="#000000" stroke-width="2" fill="#FFFFFF" points="420 580 420 640 340 640 340 580"></polygon>
+            <polyline id="Rectangle-2" stroke="#000000" stroke-width="2" fill="#FFFFFF" points="200 353.230469 180 353.230469 180 340 200 340 200 340"></polyline>
+            <polyline id="Rectangle-2" stroke="#000000" stroke-width="2" fill="#FFFFFF" points="200 366.230469 180 366.230469 180 353 200 353 200 353"></polyline>
+            <polyline id="Rectangle-2" stroke="#000000" stroke-width="2" fill="#FFFFFF" points="200 467.230469 180 467.230469 180 454 200 454 200 454"></polyline>
+            <polyline id="Rectangle-2" stroke="#000000" stroke-width="2" fill="#FFFFFF" points="200 480.230469 180 480.230469 180 467 200 467 200 467"></polyline>
+            <text id="Kitchen" font-family="Helvetica" font-size="8" font-weight="normal" fill="#000000">
+                <tspan x="375.380859" y="731.25">Kitchen</tspan>
+            </text>
+            <text id="User-research-labs" font-family="Helvetica" font-size="8" font-weight="normal" fill="#000000">
+                <tspan x="382.277344" y="534.25">User </tspan>
+                <tspan x="375.160156" y="544.25">research </tspan>
+                <tspan x="383.384766" y="554.25">labs</tspan>
+            </text>
+            <text id="Observation-rooms" font-family="Helvetica" font-size="8" font-weight="normal" fill="#000000">
+                <tspan x="358.15625" y="610.25">Observation </tspan>
+                <tspan x="368.609375" y="620.25">rooms</tspan>
+            </text>
+            <text id="GOV.UK-Verify" font-family="Helvetica" font-size="8" font-weight="normal" fill="#000000">
+                <tspan x="444.78125" y="593.25">GOV.UK</tspan>
+                <tspan x="449.966797" y="603.25">Verify</tspan>
+            </text>
+            <text id="Security" font-family="Helvetica" font-size="8" font-weight="normal" fill="#000000">
+                <tspan x="445.523438" y="124.25">Security</tspan>
+            </text>
+            <text id="GaaP" font-family="Helvetica" font-size="8" font-weight="normal" fill="#000000">
+                <tspan x="237.419922" y="124.25">GaaP</tspan>
+            </text>
+            <text id="PaaS" font-family="Helvetica" font-size="8" font-weight="normal" fill="#000000">
+                <tspan x="344.150391" y="124.25">PaaS</tspan>
+            </text>
+            <text id="GOV.UK-Notify" font-family="Helvetica" font-size="8" font-weight="normal" fill="#000000">
+                <tspan x="126.169922" y="124.25">GOV.UK</tspan>
+                <tspan x="131.136719" y="134.25">Notify</tspan>
+            </text>
+            <text id="GOV.UK-Pay" font-family="Helvetica" font-size="8" font-weight="normal" fill="#000000">
+                <tspan x="276.804688" y="303.230469">GOV.UK Pay</tspan>
+            </text>
+            <text id="GOV.UK" font-family="Helvetica" font-size="8" font-weight="normal" fill="#000000">
+                <tspan x="126.169922" y="413.25">GOV.UK</tspan>
+            </text>
+            <text id="Toilets-Stairs" font-family="Helvetica" font-size="8" font-weight="normal" fill="#000000">
+                <tspan x="278.662109" y="748">Toilets</tspan>
+                <tspan x="279.775391" y="758">Stairs</tspan>
+            </text>
+            <text id="Reception" font-family="Helvetica" font-size="8" font-weight="normal" fill="#000000">
+                <tspan x="322.988281" y="664">Reception</tspan>
+            </text>
+            <text id="Internal-IT-Team" font-family="Helvetica" font-size="8" font-weight="normal" fill="#000000">
+                <tspan x="128.019531" y="731.25">Internal</tspan>
+                <tspan x="127.054688" y="741.25">IT Team</tspan>
+            </text>
+            <text id="Lifts" font-family="Helvetica" font-size="8" font-weight="normal" fill="#000000">
+                <tspan x="292.664062" y="584.25">Lifts</tspan>
+            </text>
+            <text id="Stairs" font-family="Helvetica" font-size="8" font-weight="normal" fill="#000000">
+                <tspan x="229.775391" y="584.25">Stairs</tspan>
+            </text>
+            <text id="Printers" font-family="Helvetica" font-size="8" font-weight="normal" fill="#000000">
+                <tspan x="186.21875" y="542.25">Printers</tspan>
+            </text>
+            <text id="601" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#D0011B">
+                <tspan x="193.326172" y="613.25">601</tspan>
+            </text>
+            <polygon id="Rectangle-2" stroke="#000000" stroke-width="2" fill="#FFFFFF" points="340 160 340 180 221 180 221 160"></polygon>
+            <polygon id="Rectangle-2" stroke="#000000" stroke-width="2" fill="#FFFFFF" points="301 180 301 260 221 260 221 180"></polygon>
+            <path d="M225.637192,260 C230.808128,260 235,264.191872 235,269.362808 L225.637192,269.362808 L225.637192,260 Z" id="Combined-Shape" stroke="#000000" fill="#FFFFFF" transform="translate(230.318596, 264.681404) scale(-1, -1) rotate(-90.000000) translate(-230.318596, -264.681404) "></path>
+            <polygon id="Rectangle-2" stroke="#000000" stroke-width="2" fill="#FFFFFF" points="340 180 340 260 301 260 301 180"></polygon>
+            <polygon id="Rectangle-2" stroke="#000000" stroke-width="2" fill="#FFFFFF" points="380 210 380 260 340 260 340 210"></polygon>
+            <polygon id="Rectangle-2" stroke="#000000" stroke-width="2" fill="#FFFFFF" points="380 160 380 210 340 210 340 160"></polygon>
+            <path d="M325.637192,160 C330.808128,160 335,164.191872 335,169.362808 L325.637192,169.362808 L325.637192,160 Z" id="Combined-Shape" stroke="#000000" fill="#FFFFFF" transform="translate(330.318596, 164.681404) scale(-1, 1) rotate(-270.000000) translate(-330.318596, -164.681404) "></path>
+            <path d="M235.637192,180 C240.808128,180 245,184.191872 245,189.362808 L235.637192,189.362808 L235.637192,180 Z" id="Combined-Shape" stroke="#000000" fill="#FFFFFF" transform="translate(240.318596, 184.681404) scale(-1, 1) rotate(-270.000000) translate(-240.318596, -184.681404) "></path>
+            <path d="M275.637192,180 C280.808128,180 285,184.191872 285,189.362808 L275.637192,189.362808 L275.637192,180 Z" id="Combined-Shape" stroke="#000000" fill="#FFFFFF" transform="translate(280.318596, 184.681404) scale(-1, 1) rotate(-270.000000) translate(-280.318596, -184.681404) "></path>
+            <path d="M308.637192,180 C313.808128,180 318,184.191872 318,189.362808 L308.637192,189.362808 L308.637192,180 Z" id="Combined-Shape" stroke="#000000" fill="#FFFFFF" transform="translate(313.318596, 184.681404) rotate(-270.000000) translate(-313.318596, -184.681404) "></path>
+            <path d="M220.637192,165 C225.808128,165 230,169.191872 230,174.362808 L220.637192,174.362808 L220.637192,165 Z" id="Combined-Shape" stroke="#000000" fill="#FFFFFF" transform="translate(225.318596, 169.681404) scale(-1, 1) rotate(-180.000000) translate(-225.318596, -169.681404) "></path>
+            <path d="M345.637192,160 C350.808128,160 355,164.191872 355,169.362808 L345.637192,169.362808 L345.637192,160 Z" id="Combined-Shape" stroke="#000000" fill="#FFFFFF" transform="translate(350.318596, 164.681404) rotate(-270.000000) translate(-350.318596, -164.681404) "></path>
+            <polygon id="Rectangle-2" stroke="#000000" stroke-width="2" fill="#FFFFFF" points="210 279.5 210 320 180 320 180 279.5"></polygon>
+            <polygon id="Rectangle-2" stroke="#000000" stroke-width="2" fill="#FFFFFF" points="240 279.5 240 320 210 320 210 279.5"></polygon>
+            <path d="M301,630.637192 C306.170936,630.637192 310.362808,634.829064 310.362808,640 L301,640 L301,630.637192 Z" id="Combined-Shape" stroke="#000000" fill="#FFFFFF" transform="translate(305.681404, 635.318596) scale(-1, 1) translate(-305.681404, -635.318596) "></path>
+            <path d="M349,630.637192 C354.170936,630.637192 358.362808,634.829064 358.362808,640 L349,640 L349,630.637192 Z" id="Combined-Shape" stroke="#000000" fill="#FFFFFF" transform="translate(353.681404, 635.318596) scale(-1, 1) translate(-353.681404, -635.318596) "></path>
+            <path d="M386,630.637192 C391.170936,630.637192 395.362808,634.829064 395.362808,640 L386,640 L386,630.637192 Z" id="Combined-Shape" stroke="#000000" fill="#FFFFFF" transform="translate(390.681404, 635.318596) scale(-1, 1) translate(-390.681404, -635.318596) "></path>
+            <path d="M360,529.637192 C365.170936,529.637192 369.362808,533.829064 369.362808,539 L360,539 L360,529.637192 Z" id="Combined-Shape" stroke="#000000" fill="#FFFFFF" transform="translate(364.681404, 534.318596) scale(-1, 1) rotate(-90.000000) translate(-364.681404, -534.318596) "></path>
+            <path d="M370,399.637192 C375.170936,399.637192 379.362808,403.829064 379.362808,409 L370,409 L370,399.637192 Z" id="Combined-Shape" stroke="#000000" fill="#FFFFFF" transform="translate(374.681404, 404.318596) rotate(-90.000000) translate(-374.681404, -404.318596) "></path>
+            <path d="M360,561.637192 C365.170936,561.637192 369.362808,565.829064 369.362808,571 L360,571 L360,561.637192 Z" id="Combined-Shape" stroke="#000000" fill="#FFFFFF" transform="translate(364.681404, 566.318596) scale(-1, 1) rotate(-90.000000) translate(-364.681404, -566.318596) "></path>
+            <polygon id="Rectangle-2" stroke="#000000" stroke-width="2" fill="#FFFFFF" points="390 279.5 390 320 360 320 360 279.5"></polygon>
+            <text id="607" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#D0011B">
+                <tspan x="217.826172" y="303.230469">607</tspan>
+            </text>
+            <text id="Multi-Faith-Room" font-family="Helvetica" font-size="8" font-weight="normal" fill="#000000">
+                <tspan x="366.527344" y="293">Multi</tspan>
+                <tspan x="366.080078" y="303">Faith</tspan>
+                <tspan x="364.302734" y="313">Room</tspan>
+            </text>
+            <text id="602" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#D0011B">
+                <tspan x="183.826172" y="477">602</tspan>
+            </text>
+            <text id="603" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#D0011B">
+                <tspan x="183.826172" y="463">603</tspan>
+            </text>
+            <text id="604" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#D0011B">
+                <tspan x="183.826172" y="363">604</tspan>
+            </text>
+            <text id="605" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#D0011B">
+                <tspan x="183.826172" y="349">605</tspan>
+            </text>
+            <polyline id="Rectangle-2" stroke="#000000" stroke-width="2" fill="#FFFFFF" transform="translate(410.000000, 347.615234) scale(-1, 1) translate(-410.000000, -347.615234) " points="420 354.230469 400 354.230469 400 341 420 341 420 341"></polyline>
+            <polyline id="Rectangle-2" stroke="#000000" stroke-width="2" fill="#FFFFFF" transform="translate(410.000000, 360.615234) scale(-1, 1) translate(-410.000000, -360.615234) " points="420 367.230469 400 367.230469 400 354 420 354 420 354"></polyline>
+            <polyline id="Rectangle-2" stroke="#000000" stroke-width="2" fill="#FFFFFF" transform="translate(410.000000, 460.615234) scale(-1, 1) translate(-410.000000, -460.615234) " points="420 467.230469 400 467.230469 400 454 420 454 420 454"></polyline>
+            <polyline id="Rectangle-2" stroke="#000000" stroke-width="2" fill="#FFFFFF" transform="translate(410.000000, 473.615234) scale(-1, 1) translate(-410.000000, -473.615234) " points="420 480.230469 400 480.230469 400 467 420 467 420 467"></polyline>
+            <text id="616" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#D0011B">
+                <tspan x="402.826172" y="477">616</tspan>
+            </text>
+            <text id="615" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#D0011B">
+                <tspan x="402.826172" y="463">615</tspan>
+            </text>
+            <text id="614" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#D0011B">
+                <tspan x="402.826172" y="364">614</tspan>
+            </text>
+            <text id="613" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#D0011B">
+                <tspan x="402.826172" y="350">613</tspan>
+            </text>
+            <text id="606" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#D0011B">
+                <tspan x="186.826172" y="303.230469">606</tspan>
+            </text>
+            <polygon id="Rectangle-2" stroke="#000000" stroke-width="2" fill="#FFFFFF" points="420 279.5 420 320 390 320 390 279.5"></polygon>
+            <text id="Stairs" font-family="Helvetica" font-size="8" font-weight="normal" fill="#000000">
+                <tspan x="310.775391" y="222">Stairs</tspan>
+            </text>
+            <text id="612" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#D0011B">
+                <tspan x="354.326172" y="238">612</tspan>
+            </text>
+            <text id="610" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#D0011B">
+                <tspan x="353.326172" y="193">610</tspan>
+            </text>
+            <text id="609" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#D0011B">
+                <tspan x="193.326172" y="203">609</tspan>
+            </text>
+            <text id="608" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#D0011B">
+                <tspan x="193.326172" y="243">608</tspan>
+            </text>
+            <text id="611" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#D0011B">
+                <tspan x="392.544922" y="213">611</tspan>
+            </text>
+            <path d="M291,630.637192 C296.170936,630.637192 300.362808,634.829064 300.362808,640 L291,640 L291,630.637192 Z" id="Combined-Shape" stroke="#000000" fill="#FFFFFF"></path>
+            <path d="M227.5,280.137192 C232.670936,280.137192 236.862808,284.329064 236.862808,289.5 L227.5,289.5 L227.5,280.137192 Z" id="Combined-Shape" stroke="#000000" fill="#FFFFFF" transform="translate(232.181404, 284.818596) scale(-1, 1) rotate(-270.000000) translate(-232.181404, -284.818596) "></path>
+            <path d="M197.5,280.137192 C202.670936,280.137192 206.862808,284.329064 206.862808,289.5 L197.5,289.5 L197.5,280.137192 Z" id="Combined-Shape" stroke="#000000" fill="#FFFFFF" transform="translate(202.181404, 284.818596) scale(-1, 1) rotate(-270.000000) translate(-202.181404, -284.818596) "></path>
+            <g id="Group" transform="translate(300.000000, 525.500000) rotate(-180.000000) translate(-300.000000, -525.500000) translate(290.000000, 520.000000)" stroke="#000000" fill="#FFFFFF">
+                <path d="M10,0.867661136 C15.1709359,0.867661136 19.3628076,5.05953289 19.3628076,10.2304687 L10,10.2304687 L10,0.867661136 Z" id="Combined-Shape" transform="translate(14.681404, 5.549065) scale(-1, 1) translate(-14.681404, -5.549065) "></path>
+                <path d="M0,0.867661136 C5.17093586,0.867661136 9.36280761,5.05953289 9.36280761,10.2304687 L0,10.2304687 L0,0.867661136 Z" id="Combined-Shape"></path>
+            </g>
+            <path d="M420,381.364265 L420,440.637919" id="Path-2" stroke="#000000" stroke-width="2"></path>
+            <path d="M180,381.364265 L180,440.637919" id="Path-2" stroke="#000000" stroke-width="2"></path>
+            <path d="M420,659 L420,761" id="Path-2" stroke="#000000" stroke-width="2"></path>
+            <path d="M221,660 L221,782" id="Path-2" stroke="#000000" stroke-width="2"></path>
+            <path d="M311,660 L239,660" id="Path-2" stroke="#000000" stroke-width="2"></path>
+            <path d="M222,660 L179,660" id="Path-2" stroke="#000000" stroke-width="2"></path>
+            <path d="M222,660 L179,660" id="Path-2" stroke="#000000" stroke-width="2"></path>
+            <path d="M392,680 L361,680" id="Path-2" stroke="#000000" stroke-width="2"></path>
+            <polyline id="Path-3" stroke="#000000" stroke-width="2" points="219 501 180 501 180 562"></polyline>
+            <path d="M241.784782,500 L281.119985,500" id="Path-4" stroke="#000000" stroke-width="2"></path>
+            <path d="M360,679 L360,739" id="Path-2" stroke="#000000" stroke-width="2"></path>
+            <path d="M400,160 L378,160" id="Path-5" stroke="#000000" stroke-width="2"></path>
+            <path d="M400,260 L378,260" id="Path-5" stroke="#000000" stroke-width="2"></path>
+            <path d="M421,159 L421,261" id="Path-6" stroke="#000000" stroke-width="2"></path>
+            <path d="M180,180 L180,261" id="Path-6" stroke="#000000" stroke-width="2"></path>
+            <path d="M221,260 L200,260" id="Path-7" stroke="#000000" stroke-width="2"></path>
+            <path d="M221,220 L200,220" id="Path-7" stroke="#000000" stroke-width="2"></path>
+            <rect id="Rectangle-5" stroke="#000000" stroke-width="2" fill="#FFFFFF" x="320" y="500" width="20" height="20"></rect>
+            <path d="M221,180 L200,180" id="Path-7" stroke="#000000" stroke-width="2"></path>
+            <path d="M345.637192,250 C350.808128,250 355,254.191872 355,259.362808 L345.637192,259.362808 L345.637192,250 Z" id="Combined-Shape" stroke="#000000" fill="#FFFFFF"></path>
+            <g id="Group-2" transform="translate(184.000000, 394.000000)" stroke="#979797">
+                <polygon id="Path-9" points="11 0 0 0 0 31 11 31 11 28.9980216 2 28.9980216 2 2 11 2"></polygon>
+                <polygon id="Path-10" fill="#FFFFFF" points="11 2 11 11 2 11 2 2"></polygon>
+                <polygon id="Path-10" fill="#FFFFFF" points="11 11 11 20 2 20 2 11"></polygon>
+                <polygon id="Path-10" fill="#FFFFFF" points="11 20 11 29 2 29 2 20"></polygon>
+            </g>
+            <g id="Group-2" transform="translate(410.500000, 409.500000) scale(-1, 1) translate(-410.500000, -409.500000) translate(405.000000, 394.000000)" stroke="#979797">
+                <polygon id="Path-9" points="11 0 0 0 0 31 11 31 11 28.9980216 2 28.9980216 2 2 11 2"></polygon>
+                <polygon id="Path-10" fill="#FFFFFF" points="11 2 11 11 2 11 2 2"></polygon>
+                <polygon id="Path-10" fill="#FFFFFF" points="11 11 11 20 2 20 2 11"></polygon>
+                <polygon id="Path-10" fill="#FFFFFF" points="11 20 11 29 2 29 2 20"></polygon>
+            </g>
+            <path d="M301,721 L339,721" id="Path-14" stroke="#000000" stroke-width="2"></path>
+            <g id="wheelchair-classic" transform="translate(314.000000, 695.000000)" fill-rule="nonzero" fill="#000000">
+                <path d="M7.5408254,8.53625397 L8.2935873,10.0417778 C8.00304762,10.9222011 7.488,11.6353439 6.74844444,12.1812063 C6.00888889,12.7270688 5.17248677,13 4.2392381,13 C3.47326984,13 2.7645291,12.810709 2.11301587,12.432127 C1.46150265,12.053545 0.946455026,11.5384974 0.567873016,10.8869841 C0.189291005,10.2354709 0,9.52673016 0,8.7607619 C0,7.87153439 0.255322751,7.05714286 0.765968254,6.3175873 C1.27661376,5.57803175 1.95453968,5.06298413 2.79974603,4.77244444 L2.91860317,5.73650794 C2.31991534,6.00063492 1.84008466,6.40562963 1.47911111,6.95149206 C1.11813757,7.4973545 0.937650794,8.10044444 0.937650794,8.7607619 C0.937650794,9.66759788 1.26340741,10.4423704 1.91492063,11.0850794 C2.56643386,11.7277884 3.34120635,12.053545 4.2392381,12.0623492 C4.86433862,12.0623492 5.43661376,11.8994709 5.95606349,11.5737143 C6.47551323,11.2479577 6.88050794,10.8165503 7.17104762,10.2794921 C7.4615873,9.74243386 7.58484656,9.1613545 7.5408254,8.53625397 L7.5408254,8.53625397 Z M11.5819683,9.27580952 L12.0045714,10.1210159 L10.1160635,11.0586667 C10.0544339,11.0938836 9.984,11.1114921 9.9047619,11.1114921 C9.71106878,11.1114921 9.57020106,11.0278519 9.48215873,10.8605714 L7.72571429,7.33447619 L4.2392381,7.33447619 C4.12478307,7.33447619 4.02353439,7.29485714 3.93549206,7.21561905 C3.84744974,7.13638095 3.79462434,7.03953439 3.77701587,6.92507937 L3.06387302,1.18031746 C3.05506878,1.09227513 3.07267725,0.986624339 3.11669841,0.863365079 C3.17832804,0.616846561 3.31479365,0.414349206 3.52609524,0.255873016 C3.73739683,0.0973968254 3.97511111,0.0225608466 4.2392381,0.0313650794 C4.56499471,0.0313650794 4.84673016,0.145820106 5.08444444,0.374730159 C5.32215873,0.603640212 5.43661376,0.880973545 5.42780952,1.20673016 C5.42780952,1.55009524 5.30014815,1.84063492 5.0448254,2.07834921 C4.78950265,2.31606349 4.49456085,2.41731217 4.16,2.38209524 L4.42412698,4.50831746 L7.5408254,4.50831746 L7.5408254,5.4591746 L4.54298413,5.4591746 L4.66184127,6.3968254 L8.01625397,6.3968254 C8.21875132,6.3968254 8.35961905,6.48046561 8.43885714,6.64774603 L10.1160635,10.0021587 L11.5819683,9.27580952 Z" id="Shape"></path>
+            </g>
+            <text id="01" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="521.523438" y="761.570007">01</tspan>
+            </text>
+            <text id="02" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="521.523438" y="727.434744">02</tspan>
+            </text>
+            <text id="03" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="521.523438" y="693.29948">03</tspan>
+            </text>
+            <text id="04" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="521.523438" y="659.164217">04</tspan>
+            </text>
+            <text id="05" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="521.523438" y="625.028953">05</tspan>
+            </text>
+            <text id="06" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="521.523438" y="590.89369">06</tspan>
+            </text>
+            <text id="07" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="521.550781" y="556.758426">07</tspan>
+            </text>
+            <text id="08" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="521.550781" y="522.623163">08</tspan>
+            </text>
+            <text id="09" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="521.550781" y="488.487899">09</tspan>
+            </text>
+            <text id="10" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="521.550781" y="454.352635">10</tspan>
+            </text>
+            <text id="11" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="521.769531" y="420.217372">11</tspan>
+            </text>
+            <text id="12" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="521.550781" y="386.082108">12</tspan>
+            </text>
+            <text id="13" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="521.550781" y="351.946845">13</tspan>
+            </text>
+            <text id="14" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="521.550781" y="317.811581">14</tspan>
+            </text>
+            <text id="15" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="521.550781" y="283.676318">15</tspan>
+            </text>
+            <text id="16" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="521.550781" y="249.541054">16</tspan>
+            </text>
+            <text id="17" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="521.550781" y="215.405791">17</tspan>
+            </text>
+            <text id="18" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="521.550781" y="181.270527">18</tspan>
+            </text>
+            <text id="19" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="521.550781" y="147.135264">19</tspan>
+            </text>
+            <text id="20" font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill="#959595">
+                <tspan x="521.550781" y="113">20</tspan>
+            </text>
+            <text id="bit.ly/gds-floorplan" font-family="Helvetica" font-size="8" font-weight="normal" fill="#000000">
+                <tspan x="265.039062" y="814">bit.ly/gds-floorplan</tspan>
+            </text>
+            <polygon id="Rectangle-2" stroke="#000000" stroke-width="2" fill="#FFFFFF" points="261 220 261 260 221 260 221 220"></polygon>
+            <text id="Toilets" font-family="Helvetica" font-size="8" font-weight="normal" fill="#000000">
+                <tspan x="248.662109" y="207.328125">Toilets</tspan>
+            </text>
+            <g id="wheelchair-classic" transform="translate(234.000000, 235.000000)" fill-rule="nonzero" fill="#000000">
+                <path d="M7.5408254,8.53625397 L8.2935873,10.0417778 C8.00304762,10.9222011 7.488,11.6353439 6.74844444,12.1812063 C6.00888889,12.7270688 5.17248677,13 4.2392381,13 C3.47326984,13 2.7645291,12.810709 2.11301587,12.432127 C1.46150265,12.053545 0.946455026,11.5384974 0.567873016,10.8869841 C0.189291005,10.2354709 0,9.52673016 0,8.7607619 C0,7.87153439 0.255322751,7.05714286 0.765968254,6.3175873 C1.27661376,5.57803175 1.95453968,5.06298413 2.79974603,4.77244444 L2.91860317,5.73650794 C2.31991534,6.00063492 1.84008466,6.40562963 1.47911111,6.95149206 C1.11813757,7.4973545 0.937650794,8.10044444 0.937650794,8.7607619 C0.937650794,9.66759788 1.26340741,10.4423704 1.91492063,11.0850794 C2.56643386,11.7277884 3.34120635,12.053545 4.2392381,12.0623492 C4.86433862,12.0623492 5.43661376,11.8994709 5.95606349,11.5737143 C6.47551323,11.2479577 6.88050794,10.8165503 7.17104762,10.2794921 C7.4615873,9.74243386 7.58484656,9.1613545 7.5408254,8.53625397 L7.5408254,8.53625397 Z M11.5819683,9.27580952 L12.0045714,10.1210159 L10.1160635,11.0586667 C10.0544339,11.0938836 9.984,11.1114921 9.9047619,11.1114921 C9.71106878,11.1114921 9.57020106,11.0278519 9.48215873,10.8605714 L7.72571429,7.33447619 L4.2392381,7.33447619 C4.12478307,7.33447619 4.02353439,7.29485714 3.93549206,7.21561905 C3.84744974,7.13638095 3.79462434,7.03953439 3.77701587,6.92507937 L3.06387302,1.18031746 C3.05506878,1.09227513 3.07267725,0.986624339 3.11669841,0.863365079 C3.17832804,0.616846561 3.31479365,0.414349206 3.52609524,0.255873016 C3.73739683,0.0973968254 3.97511111,0.0225608466 4.2392381,0.0313650794 C4.56499471,0.0313650794 4.84673016,0.145820106 5.08444444,0.374730159 C5.32215873,0.603640212 5.43661376,0.880973545 5.42780952,1.20673016 C5.42780952,1.55009524 5.30014815,1.84063492 5.0448254,2.07834921 C4.78950265,2.31606349 4.49456085,2.41731217 4.16,2.38209524 L4.42412698,4.50831746 L7.5408254,4.50831746 L7.5408254,5.4591746 L4.54298413,5.4591746 L4.66184127,6.3968254 L8.01625397,6.3968254 C8.21875132,6.3968254 8.35961905,6.48046561 8.43885714,6.64774603 L10.1160635,10.0021587 L11.5819683,9.27580952 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

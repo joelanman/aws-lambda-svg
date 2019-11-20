@@ -91,8 +91,11 @@ function convert (inputPath, outputDir, callback) {
 
   (async () => {
 
+    const executablePath = (isLambda) ? __dirname + '/headless-chromium' : '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
+    console.log('executablePath: ' + executablePath)
     const browser = await puppeteer.launch({
-      executablePath: (isLambda) ? __dirname + '/headless-chromium' : '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
+      args: ['--no-sandbox', '--disable-setuid-sandbox'],
+      executablePath: executablePath
     })
     const inputHTML = 'file://' + __dirname + '/input.html'
     const page = await browser.newPage()
